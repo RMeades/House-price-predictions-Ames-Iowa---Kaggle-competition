@@ -6,3 +6,4 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 ### Kaggle competition notebooks
 
 > 1. https://www.kaggle.com/code/rmeades/ames-house-price-predictions
+> 1. https://www.kaggle.com/code/rmeades/ames-house-price-predictions-sulov-and-xgboost#
